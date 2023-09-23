@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("../fonts/flaticon/font/flaticon_mycollection.ttf?9a141ab1d172e9cb71936dcbf6291aaa") format("truetype"),
+url("../fonts/flaticon/font/flaticon_mycollection.woff?9a141ab1d172e9cb71936dcbf6291aaa") format("woff"),
+url("../fonts/flaticon/font/flaticon_mycollection.woff2?9a141ab1d172e9cb71936dcbf6291aaa") format("woff2"),
+url("../fonts/flaticon/font/flaticon_mycollection.eot?9a141ab1d172e9cb71936dcbf6291aaa#iefix") format("embedded-opentype"),
+url("../fonts/flaticon/font/flaticon_mycollection.svg?9a141ab1d172e9cb71936dcbf6291aaa#flaticon_mycollection") format("svg");
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+      font-family: "Flaticon";
+      src: url("../fonts/flaticon/font/flaticon_mycollection.svg?9a141ab1d172e9cb71936dcbf6291aaa#flaticon_mycollection") format("svg");
+    }
+  }
+
+  [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+  [class^="flaticon-"]:after, [class*=" flaticon-"]:after { 
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 2;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.flaticon-restaurant:before {
+    content: "\f101";
+}
+.flaticon-badminton:before {
+    content: "\f102";
+}
+.flaticon-boat:before {
+    content: "\f103";
+}
+.flaticon-running:before {
+    content: "\f104";
+}
+.flaticon-track-bicycle:before {
+    content: "\f105";
+}
+.flaticon-open-book:before {
+    content: "\f106";
+}
+.flaticon-wifi-signal:before {
+    content: "\f107";
+}
+.flaticon-taxi:before {
+    content: "\f108";
+}
+.flaticon-chef:before {
+    content: "\f109";
+}
+.flaticon-prenatal:before {
+    content: "\f10a";
+}
